@@ -26,7 +26,7 @@ function carregaProjetoAutoral() {
 
         bio04: {
             nome: "Amigos",
-            imagem: "https://lh3.googleusercontent.com/OFDaxadqagUfQ_f0Z0wi5ohB93bZd7MR4KSIY784zsSrC9v6QfRdnlyHCyOZxXTGsBmhIeZJaM6BiewJMEbeV7ryVYX0LWgV-rJ_XmPri4-l8UeJKUtXhk7u4puuGxaM5Qy-qJ8f6mbAC2YahbT4LjwBpDc7rNCgDxqfk4X5IROKTjvf6YhIjeidagpThQVSAJ-IZmVtFJHsA7dVWMrJuvSKIkQPuXyFHm8egNpwWzOYoazsdfxWV9dQMOSISIfHFEyMJkOIx45XSFzr5QNqP-48Xwkgn_sUsiQqZJaQ6kuYNkqGI5Q6o8j_xNv3s3EJzr6s9YDHUF5p7Wrxbk3WuzJ_j2IK33-jtToaSqAXDVYmuZdzl7iDM46RsTmcGjGAg93uq2GQ9HjvV7I1MXgzURVGo3_HXqfD1yfck5OK2OTIwhCcWX_BJx-zSJ1jzYIirmC9PNiONwiIFD9epWaJwovaBeHdD5tYBQn_JSkcH4eNr9bu-6RHDhD3bzPsAOZq86DEJllzQ772fJ25yGdd6p-GMU5NJCj3Y_5A8d_vJTZlUtJiLUAv2_R_LK6abmfd_d1ALEml4mXjAf64OKq87-QWhm2jxhWX_f3ZhTk9bRzPa5bIGBN7x5ce4S1IQ6I9wN1E0dqX7woUjutWdx4E7AevrRwb1nVu0GnZ8i5mACzAo0Korwv7ZollOspUAZVJSfBKBYdN30J6OoQ70BMTw7hb_SYSOIqlQ_I4Ofbug5CMx4brBLAmNCnQRVeSlp6YuEYo9okGzw1l4cSpQRIY1osw3-90ddLDjsk8M8WzwiXGsRHj1ysbJ9AiVoNu2FBxe3K1RTHhNnehXE3-bn2sE213raVI-cCbq4SmvXbGOIRJ0dSUifzwvHLa8Ik09D56Rn9ze47oLQIS6CqsslCMG6gx9fRyGw8V_rAPmRP9WQsvhBtofw=w720-h504-no?authuser=0",
+            imagem: "https://i.postimg.cc/sXQp3TNj/Whats-App-Image-2022-12-16-at-16-29-50.jpg.",
             descricao: "O curso de confeitaria me troxe amigos maravilhosos que levarei comigo para vida, sou grata a todos que fizerem parte deste momento comigo, aqui se feichou um ciclo em minha tragetória.",
             citacao: "Acredito que existem fases, ciclos, começos, recomeços. E acho que estou bem no meio de um deles. Clarissa Corrêa."
         },
